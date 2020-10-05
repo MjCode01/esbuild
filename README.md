@@ -13,7 +13,7 @@ This is a JavaScript bundler and minifier. It packages up JavaScript and TypeScr
 
 ## Why?
 
-Why build another JavaScript build tool? The current build tools for the web are at least an order of magnitude slower than they should be. I'm hoping that this project serves as an "existence proof" that our JavaScript tooling can be much, much faster.
+Why should we build another JavaScript build tool? The current build tools for the web are at least an order of magnitude slower than they should be. I'm hoping that this project serves as an "existence proof" that our JavaScript tooling can be much, much faster.
 
 ## Benchmarks
 
